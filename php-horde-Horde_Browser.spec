@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	f3763b772c9a09ac5fda5eb51908ffd7
-URL:		http://pear.horde.org/package/Horde_Browser/
+URL:		https://github.com/horde/horde/tree/master/framework/Browser/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
