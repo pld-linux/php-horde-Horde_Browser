@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Browser API
 Name:		php-horde-Horde_Browser
-Version:	1.0.0
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	f3763b772c9a09ac5fda5eb51908ffd7
+# Source0-md5:	0d48b44117c847d81ab288ba8170d549
 URL:		https://github.com/horde/horde/tree/master/framework/Browser/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
