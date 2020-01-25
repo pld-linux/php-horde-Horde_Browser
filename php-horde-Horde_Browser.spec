@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Browser
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Browser API
 Name:		php-horde-Horde_Browser
 Version:	1.0.8
